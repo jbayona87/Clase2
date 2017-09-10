@@ -1,0 +1,6 @@
+C:\Users\Visual_Dom\Desktop\10-09-2017\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Visual_Dom\Desktop\10-09-2017\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Visual_Dom\Desktop\10-09-2017\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Visual_Dom\Desktop\10-09-2017\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\10-09-2017\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Visual_Dom\Desktop\10-09-2017\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
